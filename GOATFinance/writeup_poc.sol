@@ -3,6 +3,8 @@ pragma solidity ^0.8.4;
 
 import "forge-std/Test.sol";
 
+// writeup: https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-goatfinance
+
 contract PrivilegeFinance {
 
 	string public name = "Privilege Finance";
